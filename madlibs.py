@@ -1,6 +1,3 @@
-
-
-
 adj1 = input("Adjective: ")
 adj2 = input("Adjective: ")
 noun1 = input("Noun: ")
