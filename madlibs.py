@@ -1,21 +1,22 @@
 adj1 = input("Adjective: ")
 adj2 = input("Adjective: ")
+adj3 = input("Adjective: ")
 noun1 = input("Noun: ")
 noun2 = input("Noun: ")
+noun3 = input("Noun: ")
 game = input("Game: ")
 plural_noun1 = input("Plural Noun: ")
+plural_noun2 = input("Plural Noun: ")
+plural_noun3 = input("Plural Noun: ")
 verb_ending_ing1 = input("Verb ending in 'ING': ")
 verb_ending_ing2 = input("verb ending in 'ING': ")
-plural_noun2 = input("Plural Noun: ")
 verb_ending_ing3 = input("verb ending in 'ING': ")
-noun3 = input("Noun: ")
+verb_ending_ing4 = input("verb ending in 'ING': ")
 plant = input("Plant: ")
 part_of_body = input("Part of the body: ")
 a_place = input("A Place: ")
-verb_ending_ing4 = input("verb ending in 'ING': ")
-adj3 = input("Adjective: ")
 number = input("Number: ")
-plural_noun3 = input("Plural Noun: ")
+
 
 
 madlib = f"A vaccation is when you take a trip to some {adj1} place \
